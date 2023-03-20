@@ -22,6 +22,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase 
+* [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game with HTML/CSS and PHP
+* [Quiz Game](https://github.com/minhle28/Quiz_Game) - Quiz game is multiple choice questions, only using HTML/CSS
 * [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app with React, Firebase, Expo
 
 
