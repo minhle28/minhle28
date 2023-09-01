@@ -24,7 +24,7 @@
 ## ✨ Project Showcase
 
 * [OnlineShop Website](https://github.com/minhle28/Online_Shop) - OnlineShop website using PHP, CSS, JavaScript, MySQL Database.
-* [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game with HTML/CSS and PHP.
+* [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game using CSS and PHP.
 * [Quiz Game](https://github.com/minhle28/Quiz_Game) - Quiz game is multiple choice questions, only using HTML/CSS.
 * [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app with React, Firebase, Expo.
 
