@@ -9,8 +9,8 @@
 
 
 🍃 My name is Minh Le and I'm studying Computer Science at Georgia State University class of 2024. 
-- My goal is to become a full stack developer.
-- Currently looking for internship.
+- My goal is to become a full-stack developer.
+- Currently looking for an internship.
 
 
 ## 📈 Github Stats
@@ -26,7 +26,7 @@
 * [OnlineShop Website](https://github.com/minhle28/Online_Shop) - OnlineShop website using PHP, CSS, JavaScript, MySQL Database.
 * [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game using CSS and PHP.
 * [Quiz Game](https://github.com/minhle28/Quiz_Game) - Quiz game is multiple choice questions, only using HTML/CSS.
-* [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app with React, Firebase, Expo.
+* [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app with React Native, Firebase, and Expo.
 
 
 
