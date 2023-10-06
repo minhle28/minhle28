@@ -10,7 +10,7 @@
 
 🍃 My name is Minh Le and I'm studying Computer Science at Georgia State University class of 2024. 
 - My goal is to become a full-stack developer.
-- Currently looking for an internship.
+- Currently looking for a full time or an internship.
 
 
 ## 📈 Github Stats
