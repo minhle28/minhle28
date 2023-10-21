@@ -8,9 +8,9 @@
 <a href=https://www.linkedin.com/in/minh-le-4aaa3420a/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=minhle28&color=blue">
 
 
-🍃 My name is Minh Le and I'm studying Computer Science at Georgia State University class of 2024. 
+🍃 My name is Minh Le and I'm studying Computer Science at Georgia State University class of 2024 and interested in Software Engineer
 - My goal is to become a full-stack developer.
-- Currently looking for a full time or an internship.
+- Currently looking for a full-time or an internship.
 
 
 ## 📈 Github Stats
@@ -24,6 +24,7 @@
 ## ✨ Project Showcase
 
 * [OnlineShop Website](https://github.com/minhle28/Online_Shop) - OnlineShop website using PHP, CSS, JavaScript, MySQL Database.
+* [Conway's Game Of Life](https://github.com/minhle28/Conway-s_Game_Of_Life) - Conway's Game Of Life using React JS, PHP, HTML/CSS.
 * [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game using CSS and PHP.
 * [Quiz Game](https://github.com/minhle28/Quiz_Game) - Quiz game is multiple choice questions, only using HTML/CSS.
 * [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app with React Native, Firebase, and Expo.
