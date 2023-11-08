@@ -16,10 +16,16 @@
 ## 📈 Github Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=minhle28&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minhle28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhle28&theme=tokyonight&show_icons=true&count_private=true">
+    <br>
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=minhle28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    </a>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=6">
+</div>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=6">
 
 ## ✨ Project Showcase
 
