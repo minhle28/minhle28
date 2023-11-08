@@ -17,14 +17,19 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=minhle28&theme=tokyonight&show_icons=true&count_private=true">
-    <br>
+    <div style="display: flex; justify-content: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=minhle28&theme=tokyonight&show_icons=true&count_private=true" width="495" height="195">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=6" height="195">
+    </div>
+</div>
+
+
+<div align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=minhle28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
     </a>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=6">
 </div>
+
 
 
 ## ✨ Project Showcase
