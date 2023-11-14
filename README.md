@@ -38,7 +38,7 @@
 * [Conway's Game Of Life](https://github.com/minhle28/Conway-s_Game_Of_Life) - Conway's Game Of Life using React JS, PHP, HTML/CSS.
 * [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game using CSS and PHP.
 * [Quiz Game](https://github.com/minhle28/Quiz_Game) - Quiz game is multiple choice questions (10 questions are about HTML/CSS), only using HTML/CSS.
-* [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app with React Native, Firebase, and Expo.
+* [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app (Cross-Platform) with React Native, Firebase, and Expo.
 
 
 
