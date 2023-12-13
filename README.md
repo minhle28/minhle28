@@ -19,7 +19,7 @@
 <div align="center">
     <div style="display: flex; justify-content: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=minhle28&theme=tokyonight&show_icons=true&count_private=true" width="400" height="157.56">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=6" height="157.56">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhle28&theme=tokyonight&layout=compact&langs_count=8" height="157.56">
     </div>
 </div>
 
@@ -33,7 +33,8 @@
 
 
 ## ✨ Project Showcase
-
+* [Bad_Habits_Web](https://github.com/minhle28/Bad_Habits_Web) - An E-commerce website using ReactJS, MySQL, and Bootstrap.
+* [TrivItUp](https://github.com/minhle28/TrivItUp) - An Android game app using Java and Firebase.
 * [OnlineShop Website](https://github.com/minhle28/Online_Shop) - OnlineShop website using PHP, CSS, JavaScript, MySQL Database.
 * [Conway's Game Of Life](https://github.com/minhle28/Conway-s_Game_Of_Life) - Conway's Game Of Life using React JS, PHP, HTML/CSS.
 * [Jeopardy Game](https://github.com/minhle28/Jeopardy_Game) - Jeopardy game using CSS and PHP.
