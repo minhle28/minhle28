@@ -2,7 +2,9 @@
 # Hi, I’m Minh Le!   ![clover1](https://user-images.githubusercontent.com/114270231/216884849-c5a07151-d8d8-4d8b-bc75-83e991f1ab10.png)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![cover](https://user-images.githubusercontent.com/114270231/216883748-74062c95-ef19-46bb-a377-e15df7124c6e.png)
+![Github_cover](https://github.com/minhle28/minhle28/assets/114270231/37ffd2a7-5c3f-48d9-8ae0-87b3b3fb65c2)
+
+
 
 
 <a href=https://www.linkedin.com/in/minh-le-4aaa3420a/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=minhle28&color=blue">
