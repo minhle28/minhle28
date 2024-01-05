@@ -1,5 +1,10 @@
 
-# Hi, I’m Minh Le!   ![clover1](https://user-images.githubusercontent.com/114270231/216884849-c5a07151-d8d8-4d8b-bc75-83e991f1ab10.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=100:002980,0:0049ba&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=60"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=1c8ac5&size=35&center=true&vCenter=true&width=1100&duration=5000&lines=Hello+There!+👋;+I'm+Minh+Le!;I'm+a+CS+major!;Welcome!+Feel+free+to+look+around!)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0049ba&height=3&section=header"/>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Github_cover](https://github.com/minhle28/minhle28/assets/114270231/37ffd2a7-5c3f-48d9-8ae0-87b3b3fb65c2)
@@ -44,4 +49,5 @@
 * [Leaf Chat App](https://github.com/minhle28/Leaf_Chat_App) - Mobile chat app (Cross-Platform) with React Native, Firebase, and Expo.
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=100:002980,0:0049ba&section=footer&reversal=false&textBg=false&fontAlign=50&descAlign=60"/>
 
