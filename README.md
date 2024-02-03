@@ -40,7 +40,7 @@
 
 
 ## ✨ Project Showcase
-* [Bad_Habits_Web](https://github.com/minhle28/Bad_Habits_Web) - An E-commerce website using ReactJS, MySQL, and Bootstrap.
+* [Bad_Habits_Web](https://github.com/minhle28/Bad_Habits_Web) - An E-commerce website using ReactJS, MySQL, NodeJS and Bootstrap.
 * [TrivItUp](https://github.com/minhle28/TrivItUp) - An Android game app using Java and Firebase.
 * [OnlineShop Website](https://github.com/minhle28/Online_Shop) - OnlineShop website using PHP, CSS, JavaScript, MySQL Database.
 * [Conway's Game Of Life](https://github.com/minhle28/Conway-s_Game_Of_Life) - Conway's Game Of Life using React JS, PHP, HTML/CSS.
